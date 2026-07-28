@@ -8,7 +8,7 @@ Simulations of evolution in multiple well potentials with "flea perturbations" i
 - SciPy
 - Matplotlib
 
-## Dependencies
+## Simulations
 - Run the Jupyter notebook [double_well.ipynb](double_well.ipynb) to produce simulations for an open double well with flea perturbations
 - Run the Jupyter notebook [norm_difference_scaling.ipynb](norm_difference_scaling.ipynb) to calculate the norm difference between unperturbed and perturbed eigenstates as a function of hbar
 - Run the Jupyter notebook [periodic_double_well.ipynb](periodic_double_well.ipynb) to produce simulations for a periodic double well with flea perturbations
